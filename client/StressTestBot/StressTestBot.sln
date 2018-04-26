@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StressTestBot", "StressTestBot\StressTestBot.csproj", "{DC47699F-7315-4641-A71A-81D9FB23145C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC47699F-7315-4641-A71A-81D9FB23145C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC47699F-7315-4641-A71A-81D9FB23145C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC47699F-7315-4641-A71A-81D9FB23145C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC47699F-7315-4641-A71A-81D9FB23145C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20EB7B7C-CE27-4EEA-AAA9-024A3FCCCCA0}
+	EndGlobalSection
+EndGlobal
