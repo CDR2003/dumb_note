@@ -1,5 +1,7 @@
 .vs/
 Library/
 Temp/
-DumbNoteClient.csproj
-DumbNoteClient.sln
+bin/
+obj/
+*.csproj
+*.sln
